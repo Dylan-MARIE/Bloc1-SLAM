@@ -1,2 +1,2 @@
 # Bloc1-SLAM
-Travaux Bloc1 SIO SLAM
+Travaux bloc1 SIO SLAM
