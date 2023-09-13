@@ -1,6 +1,6 @@
 # TD **1**
 
-## *Méthodes GET et POST*
+## *1 - Méthodes GET et POST*
 
 La méthode GET passe les réponses saisies via l’URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
@@ -55,3 +55,5 @@ On précise **method=”post”** dans la balise HTML pour l’utiliser.
 Comme les données du formulaire sont envoyées dans la requête elle-même, il n’y a **pas de limite de taille** et les données ne sont **pas visibles** par les autres. Ces données ne sont cependant pas protégées (elles peuvent être interceptées et lues par une tierce personne) si le protocole utilisé n’est pas du type HTTPS.
 
 [Source](https://www.maxicours.com/se/cours/la-transmission-d-un-formulaire-avec-get-ou-post/)
+
+## *2 - Comparaison méthodes*
