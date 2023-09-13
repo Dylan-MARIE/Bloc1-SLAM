@@ -35,13 +35,16 @@ On précise **method=”post”** dans la balise HTML pour l’utiliser.
 > form method="post" action="mapage.fr"
 
 > Création d’un formulaire utilisant la méthode POST. Les données seront envoyée à mapage.fr.
-   input type="text" name="nom"
+
+>   input type="text" name="nom"
 
 > Création d’un champ de saisie de texte, appelé « nom ».
-   input type="text" name="prénom"
+
+>  input type="text" name="prénom"
 
 > Création d’un champ de saisie de texte, appelé « prénom ».
-   input type="submit" value="Envoyer"
+
+>  input type="submit" value="Envoyer"
 
 > Création de l’envoi.
 
