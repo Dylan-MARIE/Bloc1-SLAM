@@ -64,7 +64,7 @@ Comme les données du formulaire sont envoyées dans la requête elle-même, il 
 
 ![Image](https://image.noelshack.com/fichiers/2023/37/3/1694638809-capture-d-ecran-2023-09-13-225950.png)
 
-
+[Image](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/get-vs-post/)
 
 ## *3 - Extensible*
 
