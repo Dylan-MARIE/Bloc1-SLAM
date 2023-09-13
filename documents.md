@@ -161,10 +161,14 @@ Enfin, voici le répertoire, cinquième et dernière partie d’une URL. Dans un
 
 ### Code 1XX
 
-Les codes de statut de réponse commençant par 1 indiquent une réponse informative du serveur. Ils ne signalent ni une erreur ni un succès, mais délivrent simplement une information au client. Il en existe 3.
+Les codes de statut de réponse commençant par **1** sont au nombre de **trois**. Ils indiquent une réponse informative du serveur. Ils ne signalent ni une erreur ni un succès, mais délivrent simplement une information au client.
 
 > Exemple :\
 > Le code 103 ou Processing informe le client du fait que le serveur a bien reçu la requête et qu'il est en train de la traiter. Il s'affiche lorsqu'aucune réponse de succès ou d'échec n'est encore disponible.
 
 ### Code 2XX
-Les codes HTTP débutant par 2 sont au nombre de 10. Tous indiquent un message de succès de la part du serveur.
+
+Les codes HTTP débutant par **2** sont au nombre de **dix**. Tous indiquent un message de succès de la part du serveur.
+
+> Exemple :\
+> Le code 200 est le plus généraliste. Il indique au client que la requête a fonctionné. Selon la méthode HTTP utilisée pour communiquer avec le serveur, le message de succès peut prendre différentes significations. Ainsi, GET indique que la donnée a pu être récupérée et qu'elle est transmise dans le corps du message, tandis que HEAD sert à récupérer les en-têtes d'entité. Le message de succès indique alors que ces en-têtes sont dans le corps du message serveur.
