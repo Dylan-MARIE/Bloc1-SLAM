@@ -1,6 +1,6 @@
 # TD **1**
 
-## *1 - Méthodes GET et POST*
+## *I - Méthodes GET et POST*
 
 La méthode GET passe les réponses saisies via l’URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
@@ -60,13 +60,13 @@ Comme les données du formulaire sont envoyées dans la requête elle-même, il 
 
 
 
-## *2 - Comparaison méthodes*
+## *II - Comparaison méthodes*
 
 ![Image](https://image.noelshack.com/fichiers/2023/37/3/1694638809-capture-d-ecran-2023-09-13-225950.png)
 
 [Source](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/get-vs-post/)
 
-## *3 - Extensible*
+## *III - Extensible*
 
 ### HTTP/1.0 – Mise en place de l'extensibilité
 
@@ -92,7 +92,7 @@ Ces innovations n'ont pas été mises en place à la suite d'un effort concerté
 
 
 
-## *4 - Sans état*
+## *IV - Sans état*
 
 HTTP est un protocole sans état.
 
@@ -102,7 +102,7 @@ Par exemple, si on utilisait uniquement HTTP, un serveur ne pourrait pas se souv
 [Source](https://iamjmm.ovh/NSI/http/site/http.html)
 
 
-## *5 - URL*
+## *V - URL*
 
 Une URL est composée de 5 parties : 
 1. Le protocole
