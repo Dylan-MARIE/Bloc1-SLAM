@@ -25,6 +25,7 @@ Cette méthode peut de plus modifier une ressource du serveur.
 
 > Exemple
 Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
+
 On précise method=”post” dans la balise HTML pour l’utiliser.
 
 > Exemple
