@@ -134,4 +134,10 @@ De plus, les sous-domaines répartissent votre site web dans différentes catég
 
 Dans notre exemple, le nom de domaine est : **mondomaine**
 
-Désormais, voyons le nom de domaine. C’est tout simplement le nom de votre site web. Il est important, car il aide les visiteurs à savoir de quoi votre site parle. Il est souvent similaire au nom de la marque. Les personnes visitant « [lvmh.com](https://www.lvmh.com/)» savent directement qu’il s’agit de la marque LVMH, Louis Vuitton Moët Hennessy.
+Désormais, voyons le nom de domaine. C’est tout simplement le nom de votre site web. Il est important, car il aide les visiteurs à savoir de quoi votre site parle. Il est souvent similaire au nom de la marque. Les personnes visitant « [lvmh.com](https://www.lvmh.com/) » savent directement qu’il s’agit de la marque LVMH, Louis Vuitton Moët Hennessy.
+
+### 4 - Le domaine de deuxième niveau
+
+Dans notre exemple, le domaine de deuxième niveau est : **.com**
+
+Le domaine de deuxième niveau précise le type d’entité sous laquelle est enregistrée votre organisation sur internet. Par exemple, « .net » est originellement destiné aux organisations présentant un lien avec les technologies réseau, comme les fournisseurs de services Internet et autres sociétés d’infrastructures réseau. Le « **.org** » est lui destiné aux organisations sans but lucratif. Il en existe beaucoup, et pour tous les usages.
