@@ -26,7 +26,7 @@ Cette méthode peut de plus modifier une ressource du serveur.
 > Exemple
 Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
 
-On précise method=”post” dans la balise HTML pour l’utiliser.
+On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
 > Exemple
 Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer sur « Envoyer ».
@@ -34,5 +34,4 @@ Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisate
    <input type="text" name="nom">	Création d’un champ de saisie de texte, appelé « nom ».
    <input type="text" name="prénom">	Création d’un champ de saisie de texte, appelé « prénom ».
    <input type="submit" value="Envoyer">	Création de l’envoi.
-</form>	Fermeture de la balise du formulaire. >
-Comme les données du formulaire sont envoyées dans la requête elle-même, il n’y a pas de limite de taille et les données ne sont pas visibles par les autres. Ces données ne sont cependant pas protégées (elles peuvent être interceptées et lues par une tierce personne) si le protocole utilisé n’est pas du type HTTPS.
+</form>	Fermeture de la balise du formulaire.
