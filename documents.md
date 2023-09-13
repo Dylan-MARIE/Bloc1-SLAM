@@ -134,4 +134,4 @@ De plus, les sous-domaines répartissent votre site web dans différentes catég
 
 Dans notre exemple, le nom de domaine est : **mondomaine**
 
-Désormais, voyons le nom de domaine. C’est tout simplement le nom de votre site web. Il est important, car il aide les visiteurs à savoir de quoi votre site parle. Il est souvent similaire au nom de la marque. Les personnes visitant « lvmh.com » savent directement qu’il s’agit de la marque LVMH, Louis Vuitton Moët Hennessy.
+Désormais, voyons le nom de domaine. C’est tout simplement le nom de votre site web. Il est important, car il aide les visiteurs à savoir de quoi votre site parle. Il est souvent similaire au nom de la marque. Les personnes visitant « [lvmh.com](https://www.lvmh.com/) » savent directement qu’il s’agit de la marque LVMH, Louis Vuitton Moët Hennessy.
