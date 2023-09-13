@@ -29,4 +29,4 @@ Lors de l’achat d’un objet sur un site commerçant, le stock doit être dimi
 On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
 > Exemple\
->Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer\sur « Envoyer ».
+>Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer sur « Envoyer ».
