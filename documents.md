@@ -186,3 +186,9 @@ Les codes HTTP débutant par **4** servent à indiquer une erreur du côté du c
 
 >Exemple:\
 >Le code HTTP 404 fait partie des plus courants, notamment sur les sites web. Dans ce cas, le serveur n'a pas trouvé la ressource demandée par l'utilisateur.
+
+### Code 5XX
+Les codes de statut de réponse débutant par le chiffre **5** servent à informer d'une erreur du côté du serveur.
+
+>Exemple:\
+>Le code 500 Internal Error prévient d'une erreur interne : le serveur n'est pas en mesure de traiter la situation qu'il rencontre.
