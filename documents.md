@@ -179,3 +179,10 @@ Les codes de statut de réponse débutant par le chiffre **3** sont connus pour 
 
 >Exemple:\
 >Le code 301, ou Moved Permanently précise au client que l'URL de la ressource qu'il recherche a été modifiée de façon permanente. La réponse du serveur indique généralement la nouvelle URL à utiliser. Le code 302 est relativement proche du 301. Il indique que l'URL a été modifiée de manière temporaire.
+
+### Code 4XX
+
+Les codes HTTP débutant par **4** servent à indiquer une erreur du côté du client.
+
+>Exemple:\
+>Le code HTTP 404 fait partie des plus courants, notamment sur les sites web. Dans ce cas, le serveur n'a pas trouvé la ressource demandée par l'utilisateur.
