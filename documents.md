@@ -5,7 +5,7 @@
 La méthode GET passe les réponses saisies via l’URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
 
-### 1) La méthode GET
+### 1 - La méthode GET
  
 La méthode GET est la méthode la plus utilisée, elle passe les réponses de l’utilisateur par l’URL.
 Cette méthode est donc limitée par la taille limite d’une URL et les données sensibles sont accessibles à tous, ce qui n’est pas sécurisé.
@@ -19,7 +19,7 @@ Exemple : Voici ci-dessous le code HTML associé à un formulaire et son aperçu
 ![Image](https://e.educlever.com/img/5/8/9/9/589911.jpg)
 
 
-### 2) La méthode POST
+### 2 - La méthode POST
 
 La méthode POST possède des caractéristiques différentes : les paramètres, c’est-à-dire les données saisies par l’utilisateur, sont passés non pas dans l’URL, mais dans la requête elle-même.
 
@@ -114,7 +114,7 @@ Une URL est composée de 5 parties :
 Prenons comme exemple l’adresse suivante
 [https://www.mondomaine.com/contact]
 
-### Le protocole
+### 1) Le protocole
 
 Dans cet exemple, le protocole est : **https://**
 
