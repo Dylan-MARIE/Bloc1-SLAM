@@ -105,8 +105,8 @@ Par exemple, si on utilisait uniquement HTTP, un serveur ne pourrait pas se souv
 ## *5 - URL*
 
 Une URL est composée de 5 parties : 
-- le protocole
-- Le sous-domaine
-- Le nom de domaine principal
-- Le domaine de deuxième niveau (SLD – Second-level Domain en anglais)
-- Le répertoire.
+1. Le protocole
+2. Le sous-domaine
+3. Le nom de domaine principal
+4. Le domaine de deuxième niveau (SLD – Second-level Domain en anglais)
+5. Le répertoire.
