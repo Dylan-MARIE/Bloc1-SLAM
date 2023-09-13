@@ -100,3 +100,13 @@ Cela veut dire que ni le serveur, ni le client ne se souviennent des communicati
 Par exemple, si on utilisait uniquement HTTP, un serveur ne pourrait pas se souvenir si un mot de passe a été saisi ou si une transaction est en cours (pour gérer cela, il faut utiliser un serveur d'applications).
 
 [Source](https://iamjmm.ovh/NSI/http/site/http.html)
+
+
+## *5 - URL*
+
+Une URL est composée de 5 parties : 
+- le protocole
+- Le sous-domaine
+- Le nom de domaine principal
+- Le domaine de deuxième niveau (SLD – Second-level Domain en anglais)
+- Le répertoire.
