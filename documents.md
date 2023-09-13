@@ -185,7 +185,7 @@ Les codes de statut de réponse débutant par le chiffre **3** sont connus pour 
 Les codes HTTP débutant par **4** servent à indiquer une erreur du côté du client.
 
 >Exemple:\
->Le code HTTP 404 fait partie des plus courants, notamment sur les sites web. Dans ce cas, le serveur n'a pas trouvé la ressource demandée par l'utilisateur.
+>Le code 404 fait partie des plus courants, notamment sur les sites web. Dans ce cas, le serveur n'a pas trouvé la ressource demandée par l'utilisateur.
 
 ### Code 5XX
 Les codes de statut de réponse débutant par le chiffre **5** servent à informer d'une erreur du côté du serveur.
