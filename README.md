@@ -75,3 +75,7 @@ HTTP/0.9 était très limité. Navigateurs et serveurs l'ont rapidement étendu 
 Une requête typique ressemblait ainsi à :
 
 ![Image](https://image.noelshack.com/fichiers/2023/37/3/1694639305-exten1.png)
+
+Suivie d'une seconde connexion-requête pour le transfert de l'image :
+
+![Image](https://image.noelshack.com/fichiers/2023/37/3/1694639459-exten2.png)
