@@ -57,3 +57,5 @@ Comme les données du formulaire sont envoyées dans la requête elle-même, il 
 [Source](https://www.maxicours.com/se/cours/la-transmission-d-un-formulaire-avec-get-ou-post/)
 
 ## *2 - Comparaison méthodes*
+
+![Image](https://image.noelshack.com/fichiers/2023/37/3/1694638809-capture-d-ecran-2023-09-13-225950.png)
