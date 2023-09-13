@@ -114,7 +114,7 @@ Une URL est composée de 5 parties :
 Prenons comme exemple l’adresse suivante
 [https://www.mondomaine.com/contact]
 
-### 1) Le protocole
+### 1 - Le protocole
 
 Dans cet exemple, le protocole est : **https://**
 
@@ -122,3 +122,10 @@ En premier lieu, voyons ce que sont les protocoles, qui constituent les premièr
 De nos jours, le protocole **HTTPS**, qui correspond à [Hypertest Transfer Protocol Secure](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) (protocole de transfert hypertexte sécurisé), est le protocole le plus courant. Il indique à votre navigateur internet qu’il doit crypter, en d’autres termes dissimuler, les informations sensibles qui sont entrées sur votre page. Comme par exemple un numéro de carte bancaire ou encore un mot de passe de connexion. De cette manière, les pirates ne peuvent pas accéder à ces informations. Ce protocole est donc un gage de sécurité pour les visiteurs de votre site et l’utiliser vous permet d’améliorer votre référencement auprès de Google.
 
 Vous avez sûrement déjà observé d’autres protocoles comme **http://** ou **ftp://** par exemple. l’http:/ est l’ancienne version de l’https://, mais ne contient pas la variante de sécurité. le ftp:// est le protocole standard de transfert de fichier entre client/serveur. Il permet de copier, modifier ou supprimer des fichiers d’un ordinateur à un autre, ce protocole est souvent utilisé pour alimenter un site web hébergé chez un tiers.
+
+### 2 - Le sous-domaine
+
+Dans notre exemple, le sous-domaine est : www.
+
+Maintenant attardons nous sur le sous-domaine. Comme on l’a dit plus haut, imaginons que votre site internet soit votre maison. Dans ce cas, le sous-domaine représente une des pièces à l’intérieur de cette maison. Le sous-domaine dans une URL indique à votre navigateur quelle page de votre site il doit afficher. Par exemple, un sous-domaine tel que « blog » fournit la page blog de votre site web.
+De plus, les sous-domaines répartissent votre site web dans différentes catégories de contenu, et montrent à Google et à vos visiteurs qu’il contient d’avantage d’informations que simplement la page d’accueil.
