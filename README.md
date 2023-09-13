@@ -30,8 +30,8 @@ On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
 > Exemple
 >Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer sur « Envoyer ».
-> <form method="post" action="mapage.fr"> > Création d’un formulaire utilisant la méthode POST. Les données seront envoyée à mapage.fr.
-   <input type="text" name="nom"> > Création d’un champ de saisie de texte, appelé « nom ».
-   <input type="text" name="prénom">	> Création d’un champ de saisie de texte, appelé « prénom ».
-   <input type="submit" value="Envoyer"> > Création de l’envoi.
+> <form method="post" action="mapage.fr"> Création d’un formulaire utilisant la méthode POST. Les données seront envoyée à mapage.fr.
+   <input type="text" name="nom"> Création d’un champ de saisie de texte, appelé « nom ».
+   <input type="text" name="prénom"> Création d’un champ de saisie de texte, appelé « prénom ».
+   <input type="submit" value="Envoyer"> Création de l’envoi.
 > </form>	Fermeture de la balise du formulaire.
