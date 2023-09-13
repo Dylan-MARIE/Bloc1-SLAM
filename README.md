@@ -62,7 +62,7 @@ Comme les données du formulaire sont envoyées dans la requête elle-même, il 
 
 ## *3 - Extensible*
 
-###### HTTP/1.0 – Mise en place de l'extensibilité
+#### HTTP/1.0 – Mise en place de l'extensibilité
 
 HTTP/0.9 était très limité. Navigateurs et serveurs l'ont rapidement étendu vers des usages plus polyvalents.
 
