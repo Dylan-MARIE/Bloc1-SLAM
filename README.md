@@ -34,5 +34,5 @@ Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisate
    <input type="text" name="nom">	Création d’un champ de saisie de texte, appelé « nom ».
    <input type="text" name="prénom">	Création d’un champ de saisie de texte, appelé « prénom ».
    <input type="submit" value="Envoyer">	Création de l’envoi.
-</form>	Fermeture de la balise du formulaire.
+</form>	Fermeture de la balise du formulaire. >
 Comme les données du formulaire sont envoyées dans la requête elle-même, il n’y a pas de limite de taille et les données ne sont pas visibles par les autres. Ces données ne sont cependant pas protégées (elles peuvent être interceptées et lues par une tierce personne) si le protocole utilisé n’est pas du type HTTPS.
