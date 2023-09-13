@@ -112,4 +112,4 @@ Une URL est composée de 5 parties :
 5. Le répertoire.
 
 Prenons comme exemple l’adresse suivante
-https:// www. mondomaine .com /contact
+[https://www.mondomaine.com/contact]
