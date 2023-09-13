@@ -110,3 +110,6 @@ Une URL est composée de 5 parties :
 3. Le nom de domaine principal
 4. Le domaine de deuxième niveau (SLD – Second-level Domain en anglais)
 5. Le répertoire.
+
+Prenons comme exemple l’adresse suivante
+> https://www.mondomaine.com/contact
