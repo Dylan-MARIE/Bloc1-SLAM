@@ -209,6 +209,7 @@ Un document donné est défini comme une *ressource*. Lorsqu'un client souhaite 
 La représentation la plus adaptée est choisie selon l'un de ces deux mécanismes :
 
 - Des en-têtes HTTP spécifiques envoyés par le client (*négociation menée par le serveur ou négociation proactive*) : il s'agit de la méthode standard pour négocier un type de ressource donné.
-- Les codes de réponse HTTP 300 Multiple Choices, 406 Not Acceptable ou 415 Unsupported Media Type envoyés par le serveur (négociation menée par l'agent ou négociation réactive), sont utilisés comme mécanismes de recours.
+
+- Les codes de réponse HTTP ***300 Multiple Choices***, ***406 Not Acceptable*** ou ***415 Unsupported Media Type*** envoyés par le serveur (négociation menée par l'agent ou négociation réactive), sont utilisés comme mécanismes de recours.
 
 Au fur et à mesure des années, d'autres propositions relatives à la négociation de contenu ont été faites, comme la négociation de contenu transparente et **l'en-tête** *Alternates*. Toutefois, elles n'ont pas suffisamment pris d'ampleur et ont finalement été abandonnées.
