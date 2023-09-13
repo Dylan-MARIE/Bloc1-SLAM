@@ -127,5 +127,5 @@ Vous avez sûrement déjà observé d’autres protocoles comme **http://** ou *
 
 Dans notre exemple, le sous-domaine est : www.
 
-Maintenant attardons nous sur le sous-domaine. Comme on l’a dit plus haut, imaginons que votre site internet soit votre maison. Dans ce cas, le sous-domaine représente une des pièces à l’intérieur de cette maison. Le sous-domaine dans une URL indique à votre navigateur quelle page de votre site il doit afficher. Par exemple, un sous-domaine tel que « blog » fournit la page blog de votre site web.
+Maintenant attardons nous sur le sous-domaine. Comme on l’a dit plus haut, imaginons que votre site internet soit votre maison. Dans ce cas, le sous-domaine représente une des pièces à l’intérieur de cette maison. Le sous-domaine dans une URL indique à votre navigateur quelle page de votre site il doit afficher. Par exemple, un sous-domaine tel que « blog » fournit la page blog de votre site web.\
 De plus, les sous-domaines répartissent votre site web dans différentes catégories de contenu, et montrent à Google et à vos visiteurs qu’il contient d’avantage d’informations que simplement la page d’accueil.
