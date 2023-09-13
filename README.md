@@ -81,3 +81,5 @@ Suivie d'une seconde connexion-requête pour le transfert de l'image :
 ![Image](https://image.noelshack.com/fichiers/2023/37/3/1694639459-exten2.png)
 
 Ces innovations n'ont pas été mises en place à la suite d'un effort concerté, mais par une approche expérimentale couvrant les années 1991-1995. Un serveur ou un navigateur ajoutaient une fonctionnalité pour voir si elle suscitait l'intérêt escompté. Nombre de problèmes d'interopérabilité relevaient du lot commun. Pour répondre à ces désagréments, un document d'information décrivant les pratiques communes a été publié en novembre 1996, [RFC 1945](https://datatracker.ietf.org/doc/html/rfc1945). Cela correspondait à la définition de HTTP/1.0. Mais rigoureusement parlant, il convient de noter qu'il ne possède pas l'état de standard officiel.
+
+## *4 - Sans état*
