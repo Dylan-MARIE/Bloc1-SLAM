@@ -141,3 +141,9 @@ Désormais, voyons le nom de domaine. C’est tout simplement le nom de votre si
 Dans notre exemple, le domaine de deuxième niveau est : **.com**
 
 Le domaine de deuxième niveau précise le type d’entité sous laquelle est enregistrée votre organisation sur internet. Par exemple, « .net » est originellement destiné aux organisations présentant un lien avec les technologies réseau, comme les fournisseurs de services Internet et autres sociétés d’infrastructures réseau. Le « **.org** » est lui destiné aux organisations sans but lucratif. Il en existe beaucoup, et pour tous les usages.
+
+### 5 - Le répertoire
+
+Dans notre exemple, le répertoire est : /contact
+
+Enfin, voici le répertoire, cinquième et dernière partie d’une URL. Dans une URL, le répertoire aide les visiteurs à comprendre sur quelle section bien précise du site ils se trouvent. Prenons un nouvel exemple. Imaginons que vous possédiez une boutique en ligne de T-shirts, de chapeaux, de bottes et de ceintures. L’une des URL de votre site web pourrait donc ressembler à « https://www.maboutique.com/bottes ». Avec l’utilisation du répertoire « bottes« , les utilisateurs savent tout de suite qu’ils se trouvent sur la page du magasin dédiées aux bottes.
