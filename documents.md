@@ -192,3 +192,5 @@ Les codes de statut de réponse débutant par le chiffre **5** servent à inform
 
 >Exemple:\
 >Le code 500 Internal Error prévient d'une erreur interne : le serveur n'est pas en mesure de traiter la situation qu'il rencontre.
+
+[Source](https://blog.hubspot.fr/marketing/http-status-code)
