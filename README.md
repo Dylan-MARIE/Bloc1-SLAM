@@ -48,4 +48,6 @@ On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
 > Création de l’envoi.
 
-> form	Fermeture de la balise du formulaire.
+> form
+
+> Fermeture de la balise du formulaire.
