@@ -163,5 +163,5 @@ Enfin, voici le répertoire, cinquième et dernière partie d’une URL. Dans un
 
 Les codes de statut de réponse commençant par 1 indiquent une réponse informative du serveur. Ils ne signalent ni une erreur ni un succès, mais délivrent simplement une information au client. Il en existe 3.
 
-> Exemple :
+> Exemple :\
 > Le code 103 ou Processing informe le client du fait que le serveur a bien reçu la requête et qu'il est en train de la traiter. Il s'affiche lorsqu'aucune réponse de succès ou d'échec n'est encore disponible.
