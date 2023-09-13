@@ -159,7 +159,7 @@ Enfin, voici le répertoire, cinquième et dernière partie d’une URL. Dans un
 4. 4XX : réponses d'erreur côté client.
 5. 5XX : réponses d'erreur côté serveur.
 
-### Code 1XX
+#### Code 1XX
 
 Les codes de statut de réponse commençant par 1 indiquent une réponse informative du serveur. Ils ne signalent ni une erreur ni un succès, mais délivrent simplement une information au client. Il en existe 3.
 
