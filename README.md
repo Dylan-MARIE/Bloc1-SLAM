@@ -16,3 +16,22 @@ Exemple : Voici ci-dessous le code HTML associé à un formulaire et son aperçu
 À la soumission du formulaire, on est redirigé vers la page suivante, et le mot de passe est visible dans l’URL, ce qui ne permet pas d’avoir un mot de passe confidentiel.
 
 ![Image](https://e.educlever.com/img/5/8/9/9/589911.jpg)
+
+#### 2) La méthode POST
+
+La méthode POST possède des caractéristiques différentes : les paramètres, c’est-à-dire les données saisies par l’utilisateur, sont passés non pas dans l’URL, mais dans la requête elle-même.
+
+Cette méthode peut de plus modifier une ressource du serveur.
+
+> Exemple
+Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
+On précise method=”post” dans la balise HTML pour l’utiliser.
+
+> Exemple
+Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer sur « Envoyer ».
+<form method="post" action="mapage.fr">	Création d’un formulaire utilisant la méthode POST. Les données seront envoyée à mapage.fr.
+   <input type="text" name="nom">	Création d’un champ de saisie de texte, appelé « nom ».
+   <input type="text" name="prénom">	Création d’un champ de saisie de texte, appelé « prénom ».
+   <input type="submit" value="Envoyer">	Création de l’envoi.
+</form>	Fermeture de la balise du formulaire.
+Comme les données du formulaire sont envoyées dans la requête elle-même, il n’y a pas de limite de taille et les données ne sont pas visibles par les autres. Ces données ne sont cependant pas protégées (elles peuvent être interceptées et lues par une tierce personne) si le protocole utilisé n’est pas du type HTTPS.
