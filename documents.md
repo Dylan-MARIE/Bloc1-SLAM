@@ -86,5 +86,5 @@ Ces innovations n'ont pas été mises en place à la suite d'un effort concerté
 
 HTTP est un protocole sans état.
 
-Cela veut dire que ni le serveur, ni le client ne se souviennent des communications précédentes. 
+Cela veut dire que ni le serveur, ni le client ne se souviennent des communications précédentes.\ 
 Par exemple, si on utilisait uniquement HTTP, un serveur ne pourrait pas se souvenir si un mot de passe a été saisi ou si une transaction est en cours (pour gérer cela, il faut utiliser un serveur d'applications).
