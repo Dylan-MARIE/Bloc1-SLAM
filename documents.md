@@ -4,6 +4,7 @@
 
 La méthode GET passe les réponses saisies via l’URL tandis que la méthode POST passe les paramètres dans le corps de la requête.
 
+
 ### 1) La méthode GET
  
 La méthode GET est la méthode la plus utilisée, elle passe les réponses de l’utilisateur par l’URL.
@@ -16,6 +17,7 @@ Exemple : Voici ci-dessous le code HTML associé à un formulaire et son aperçu
 À la soumission du formulaire, on est redirigé vers la page suivante, et le mot de passe est visible dans l’URL, ce qui ne permet pas d’avoir un mot de passe confidentiel.
 
 ![Image](https://e.educlever.com/img/5/8/9/9/589911.jpg)
+
 
 ### 2) La méthode POST
 
@@ -56,9 +58,13 @@ Comme les données du formulaire sont envoyées dans la requête elle-même, il 
 
 [Source](https://www.maxicours.com/se/cours/la-transmission-d-un-formulaire-avec-get-ou-post/)
 
+
+
 ## *2 - Comparaison méthodes*
 
 ![Image](https://image.noelshack.com/fichiers/2023/37/3/1694638809-capture-d-ecran-2023-09-13-225950.png)
+
+
 
 ## *3 - Extensible*
 
@@ -83,6 +89,8 @@ Suivie d'une seconde connexion-requête pour le transfert de l'image :
 Ces innovations n'ont pas été mises en place à la suite d'un effort concerté, mais par une approche expérimentale couvrant les années 1991-1995. Un serveur ou un navigateur ajoutaient une fonctionnalité pour voir si elle suscitait l'intérêt escompté. Nombre de problèmes d'interopérabilité relevaient du lot commun. Pour répondre à ces désagréments, un document d'information décrivant les pratiques communes a été publié en novembre 1996, [RFC 1945](https://datatracker.ietf.org/doc/html/rfc1945). Cela correspondait à la définition de HTTP/1.0. Mais rigoureusement parlant, il convient de noter qu'il ne possède pas l'état de standard officiel.
 
 [Source](https://developer.mozilla.org/fr/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+
+
 
 ## *4 - Sans état*
 
