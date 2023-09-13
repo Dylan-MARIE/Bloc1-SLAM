@@ -213,3 +213,12 @@ La représentation la plus adaptée est choisie selon l'un de ces deux mécanism
 - Les codes de réponse HTTP ***300 Multiple Choices***, ***406 Not Acceptable*** ou ***415 Unsupported Media Type*** envoyés par le serveur (*négociation menée par l'agent ou négociation réactive*), sont utilisés comme mécanismes de recours.
 
 Au fur et à mesure des années, d'autres propositions relatives à la négociation de contenu ont été faites, comme la négociation de contenu transparente et **l'en-tête** *Alternates*. Toutefois, elles n'ont pas suffisamment pris d'ampleur et ont finalement été abandonnées.
+
+
+## *VIII – Installation Apache et configuration*
+
+## *IX – CURL*
+
+## *X – Headers*
+
+![Image](https://image.noelshack.com/fichiers/2023/37/4/1694648548-en-tetes.png)
