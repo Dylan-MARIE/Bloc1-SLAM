@@ -165,3 +165,6 @@ Les codes de statut de réponse commençant par 1 indiquent une réponse informa
 
 > Exemple :\
 > Le code 103 ou Processing informe le client du fait que le serveur a bien reçu la requête et qu'il est en train de la traiter. Il s'affiche lorsqu'aucune réponse de succès ou d'échec n'est encore disponible.
+
+### Code 2XX
+Les codes HTTP débutant par 2 sont au nombre de 10. Tous indiquent un message de succès de la part du serveur.
