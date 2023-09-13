@@ -114,8 +114,7 @@ Une URL est composée de 5 parties :
 Prenons comme exemple l’adresse suivante
 [https://www.mondomaine.com/contact]
 
-Le protocole
-Prenons comme exemple l’adresse suivante : https://www.mondomaine.com/contact
+### Le protocole
 
 Dans cet exemple, le protocole est : **https://**
 
