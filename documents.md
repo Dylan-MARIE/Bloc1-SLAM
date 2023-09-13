@@ -197,3 +197,11 @@ Les codes de statut de réponse débutant par le chiffre **5** servent à inform
 
 
 ## *VII - Négocation de contenu*
+
+En HTTP, la **négociation de contenu** est le mécanisme utilisé pour servir différentes représentations d'une ressource à partir du même URI pour aider l'agent utilisateur à indiquer la représentation la plus adaptée à l'utilisateur (par exemple, la langue du document, le format d'image ou l'encodage à utiliser pour le contenu).
+
+### Les principes de la négociation de contenu
+
+Un document donné est défini comme une *ressource*. Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une *représentation*. Le serveur renvoie alors une représentation donnée au client. La ressource, ainsi que chacune de ses représentations, dispose d'une URL spécifique. *La négociation de contenu* détermine quelle représentation donnée est utilisée lorsque la ressource est demandée. Il existe plusieurs méthodes de négociation entre le client et le serveur.
+
+![Image](https://developer.mozilla.org/fr/docs/Web/HTTP/Content_negotiation/httpnego.png)
