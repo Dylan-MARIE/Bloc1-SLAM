@@ -222,3 +222,5 @@ Au fur et à mesure des années, d'autres propositions relatives à la négociat
 ## *X – Headers*
 
 ![Image](https://image.noelshack.com/fichiers/2023/37/4/1694648548-en-tetes.png)
+
+[Source](https://developer.mozilla.org/fr/docs/Web/HTTP/Content_negotiation#les_principes_de_la_n%C3%A9gociation_de_contenu)
