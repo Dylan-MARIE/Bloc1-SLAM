@@ -24,13 +24,11 @@ La méthode POST possède des caractéristiques différentes : les paramètres, 
 Cette méthode peut de plus modifier une ressource du serveur.
 
 > Exemple
->
-Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
+>Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
 
 On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
 > Exemple
-> 
 >Voici un exemple de formulaire réalisé avec la méthode GET, où l’utilisateur doit rentrer son nom et son prénom avant de cliquer sur « Envoyer ».
 > <form method="post" action="mapage.fr"> Création d’un formulaire utilisant la méthode POST. Les données seront envoyée à mapage.fr.
    <input type="text" name="nom"> Création d’un champ de saisie de texte, appelé « nom ».
