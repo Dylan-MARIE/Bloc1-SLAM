@@ -23,8 +23,8 @@ La méthode POST possède des caractéristiques différentes : les paramètres, 
 
 Cette méthode peut de plus modifier une ressource du serveur.
 
-> Exemple
->Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
+> Exemple\
+Lors de l’achat d’un objet sur un site commerçant, le stock doit être diminué de un sur le serveur du site.
 
 On précise **method=”post”** dans la balise HTML pour l’utiliser.
 
