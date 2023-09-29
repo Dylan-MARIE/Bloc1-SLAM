@@ -10,3 +10,6 @@ p{
 	margin-bottom: 15pt;
 	margin-top: 15pt;
 }
+p span {
+color:green;
+}
