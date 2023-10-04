@@ -1,0 +1,11 @@
+body{
+	margin: 30px;
+	font-family:Arial;
+}
+p{
+	margin-bottom: 15pt;
+	margin-top: 15pt;
+}
+span {
+    color:rgb(174, 87, 10);
+}
