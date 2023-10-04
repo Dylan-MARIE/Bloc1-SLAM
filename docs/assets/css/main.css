@@ -2,14 +2,26 @@ h3 {
 	color: green;
 	text-decoration: underline 2px;
 }
+
 body{
 	margin: 30px;
 	font-family:Arial;
 }
+
 p{
 	margin-bottom: 15pt;
 	margin-top: 15pt;
 }
+
 p span {
-color:green;
+color: #f08080;
+}
+
+.link{
+text-decoration: none;
+color:#00BFFF;
+}
+.linkmail{
+text-decoration: none;
+color:#157ebf;
 }
