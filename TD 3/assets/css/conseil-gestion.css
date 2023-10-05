@@ -1,0 +1,26 @@
+body{
+	background-color:#D6DBDF;
+}
+
+.main{
+	background-image: url("./../images/df-min.jpg");
+	text-align:center;
+	background-position-y:center;
+}
+.conseil{
+	width  : 450px;
+	height : 225px;
+	margin:auto;
+	clip-path: inset(1% 1% round 15px);
+	background :#F5683B;
+	display: flex;
+	flex-direction:column;
+	justify-content:space-between;
+	color:#FFFFFF;
+}
+.services{justify-content:space-between;
+}
+
+.conseil a{
+	color:#FFFFFF;
+}
