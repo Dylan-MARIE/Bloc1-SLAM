@@ -1,8 +1,16 @@
-table, th, td {
+table, td {
     border: 2px solid gray;
     border-collapse: collapse;
 }
 body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin:30px;
+}
+
+.COLcouleur{
+background-color:#F3F3F3;
+}
+
+.ROWcouleur{
+background-color:#FFF5EE;
 }
