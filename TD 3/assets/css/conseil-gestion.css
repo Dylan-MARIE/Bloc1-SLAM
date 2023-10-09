@@ -29,7 +29,8 @@ body{
 .image{
 	background-image: url("./../images/df-min.jpg");
 	background-position-y: center;
-	padding:500px;
+	padding:400px;
+	background-size:cover;
 }
 
 .services{
@@ -40,55 +41,73 @@ body{
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+	.services h2{
+		padding-top:75px;
+		text-align: center;
+	}
+	
+	.services p{
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 	.services span{
 		text-decoration: underline;
 	}
 
-	.stratégie{
-		margin: 0px 0px 0px 50px;
-		width  : 190px;
-		height : 225px;
-		background: #FFFFFF;
-		clip-path: inset(1% 1% round 15px);
-		display:flex;
-		justify-content: center;
-		align-items: flex-end;
-		flex-wrap:wrap;	
-	}
+		.stratégie, .gestion, .approvisionnement, .consultation{
+			width  : 190px;
+			height : 225px;
+			background: #FFFFFF;
+			clip-path: inset(1% 1% round 15px);
+			display:flex;
+			align-items: center;
+			flex-wrap:wrap;
+		}
 
-	.gestion{
-		width  : 190px;
-		height : 225px;
-		background: #FFFFFF;
-		clip-path: inset(1% 1% round 15px);
-		display:flex;
-		justify-content: center;
-		align-items: flex-end;
-		flex-wrap:wrap;	
-	}
+		.stratégie i{
+			position: relative;
+			margin-top: -50px;
+			margin-left:20px;
+			clip-path: inset(0% 0% round 100%);
+			font-size:30px;
+			padding:5%;
+			background-color: #F5683B;
+			color:#FFFFFF;
+		}	
 
-	.approvisionnement{
-		width  : 190px;
-		height : 225px;
-		background: #FFFFFF;
-		clip-path: inset(1% 1% round 15px);
-		display:flex;
-		justify-content: center;
-		align-items: flex-end;
-		flex-wrap:wrap;	
-	}
+		.gestion i{
+			position: relative;
+			margin-top: -50px;
+			margin-left:20px;
+			clip-path: inset(0% 7% round 100%);
+			font-size:30px;
+			padding:5%;
+			background-color: #F5683B;
+			color:#FFFFFF;
+		}	
 
-	.consultation {
-		margin: 0px 50px 0px 0px;
-		width  : 190px;
-		height : 225px;
-		background: #FFFFFF;
-		clip-path: inset(1% 1% round 15px);
-		display:flex;
-		justify-content: center;
-		align-items: flex-end;
-		flex-wrap:wrap;	
-	}
+		.approvisionnement i{
+			position: relative;
+			margin-top: 20px;
+			margin-left:20px;
+			clip-path: inset(0% 3% round 100%);
+			font-size:30px;
+			padding:5%;
+			background-color: #F5683B;
+			color:#FFFFFF;
+		}	
+
+		.consultation i{
+			position: relative;
+			margin-top: -50px;
+			margin-left:20px;
+			clip-path: inset(0% 7% round 100%);
+			font-size:30px;
+			padding:5%;
+			background-color: #F5683B;
+			color:#FFFFFF;
+		}	
 
 .footer {
 	text-align: center;
