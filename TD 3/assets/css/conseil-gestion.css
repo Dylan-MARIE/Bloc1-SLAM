@@ -60,16 +60,12 @@ body{
 		height : 225px;
 		background: #FFFFFF;
 		clip-path: inset(1% 1% round 15px);
-		display:flex;
-		align-items: center;
-		flex-wrap:wrap;
 	}
 
 		.stratégie i{
-			position: relative;
-			margin-top: -50px;
-			margin-left:20px;
-			clip-path: inset(0% 0% round 100%);
+			margin-top: 20px;
+			margin-left:-100px;
+			clip-path: circle(45%);
 			font-size:30px;
 			padding:5%;
 			background-color: #F5683B;
@@ -77,9 +73,8 @@ body{
 		}	
 
 		.gestion i{
-			position: relative;
-			margin-top: -50px;
-			margin-left:20px;
+			margin-top: 20px;
+			margin-left:-100px;
 			clip-path: circle(45%);
 			font-size:30px;
 			padding:5%;
@@ -88,9 +83,8 @@ body{
 		}	
 
 		.approvisionnement i{
-			position: relative;
 			margin-top: 20px;
-			margin-left:20px;
+			margin-left:-100px;
 			clip-path: circle(45%);
 			font-size:30px;
 			padding:5%;
@@ -99,15 +93,33 @@ body{
 		}	
 
 		.consultation i{
-			position: relative;
-			margin-top: -50px;
-			margin-left:20px;
+			margin-top: 20px;
+			margin-left:-100px;
 			clip-path: circle(45%);
 			font-size:30px;
 			padding:5%;
 			background-color: #F5683B;
 			color:#FFFFFF;
 		}	
+
+		.stratégie h2{
+			margin-top:-60px;
+			margin-left:-67px;
+		}
+
+		.gestion h2{
+			margin-top:-60px;
+			margin-left:-55px;
+		}
+
+		.approvisionnement h2{
+			margin-top:-60px;
+		}
+
+		.consultation h2{
+			margin-top:-60px;
+			margin-left:-40px;
+		}
 
 .footer{
 	text-align: center;
