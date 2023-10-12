@@ -1,0 +1,93 @@
+/*Début en-tête*/
+
+.header {
+    position: relative;
+    background-image: url("./../images/header-bg.jpg");
+    z-index: 1;
+    background-size: center;
+    background-position: center center;
+    color: #FFFFFF;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+}
+
+    .blog::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 295px;
+        width: 60px;
+        height: 4px;
+        background-color: #FFFFFF;
+        transition: background-color 0.2s;
+    }
+
+    .blog:hover::before {
+        background-color: #214b7d;
+        cursor: pointer;
+    }
+
+.logo {
+    background-image: url("./../images/logo.png");
+    background-size: cover;
+    z-index: 0;
+    width: 200px;
+    height: auto;
+    margin-right: 500px;
+}
+
+.home, .about-us, .contacts, .loupe, .user {
+    padding-left: 30px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blog{
+    cursor:pointer;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about-us{
+    padding-right:30px;
+}
+
+    .loupe {
+        margin-top: 15px;
+    }
+
+    .user {
+        padding-right: 75px;
+        margin-top: 15px;
+    }
+
+/*Début du corps principal*/
+
+.check{
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    .check i{
+        color:#5da2c5;
+        padding-right:10px;
+    }
+
+.categories, .blog2, .tags{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:50px;
+}
+
+/*Début pied de page*/
+
+.footer{
+	text-align: center;
+	vertical-align:bottom;
+	padding:20px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("./../images/header-bg.jpg");
+  }
