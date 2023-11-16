@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Message</title>
-</head>
-<body>
-<style>*{background-color:black; color:beige}</style>
 <?php
-
 $fonts=["serif","sans-serif","cursive","monospace"];
-
 extract($_POST);
 $message??="Hello World !";
 $color??="black";
@@ -21,7 +10,17 @@ $italicCk=$isItalic?"checked":"";
 $bold=isset($ckBold)?";font-weight:bold":"";
 $boldCk = $bold?"checked":"";
 ?>
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message</title>
+</head>
+<body>
+<p style="color:<?=$color?>; font-size: <?=$size?>px;<?=$italicStyle?>;<?=$bold?>; font-family:<?=$font?>">
+    <?=$message?>
+</p>
 <form action="<?=$_SERVER["PHP_SELF"]?>" method="post">
     <div>
         <label for="message">Message :</label>
@@ -48,14 +47,13 @@ $boldCk = $bold?"checked":"";
         <select name="font" id="font">
             <?php
             foreach ($fonts as $font){
-                echo "<option value="$font">$font</option>";
+                echo "<option value='$font'>$font</option>";
             }
             ?>
+        </select>
+    </div>
     <button type ="submit">Valider</button>
 </form>
-<p style="color:<?=$color?>; font-size: <?=$size?>px;<?=$italicStyle?>;<?=$bold?>">
-    <?=$message?>
-</p>
 <h2>URLs de test</h2>
 <ul>
     <li>
